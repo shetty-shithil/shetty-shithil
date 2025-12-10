@@ -70,20 +70,6 @@ Git • GitHub • Jira • Agile • JavaScript • MySQL • Postgres
 
 ---
 
-## 📊 GitHub Stats  
-Using your GitHub username: **shetty-shithil**
-
-<p align="center">
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=shetty-shithil&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=shetty-shithil&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shetty-shithil&theme=tokyonight" height="165"/>
-</p>
-
----
-
 ## 🔗 Connect With Me
 🌐 LinkedIn: https://www.linkedin.com/in/shithil-shetty  
 📧 Email: shetty7@illinois.edu  
