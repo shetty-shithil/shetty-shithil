@@ -31,19 +31,6 @@ I love solving real-world problems at the intersection of Machine Learning, LLMs
 
 ---
 
-## 🧩 Featured Projects
-
-### 🔹 **Medical Misinformation Detection in TikTok Videos**
-- Tech: *Whisper + LLaMA + PyTorch*  
-- Multimodal AI pipeline built in collaboration with **WHO**  
-- Achieved **~90% accuracy** identifying medical misinformation  
-
-### 🔹 **Customer Churn Prediction**
-- Tech: *Python, XGBoost, scikit-learn*  
-- Built an **85% accuracy** predictive churn model with strong interpretability  
-
----
-
 ## 📚 Publication
 **3D Model Rendering Using Three.js for Campus Visualization**  
 IEEE ICAST, 2022  
