@@ -53,7 +53,7 @@ Link: https://ieeexplore.ieee.org/document/10039553
 ### GenAI & NLP
 | HuggingFace | OpenAI |
 |-------------|--------|
-|<img src="https://cdn.simpleicons.org/huggingface/00A991" height="40"> | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg" height="40"> |
+|<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40"> | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg" height="40"> |
 
 ### Visualization & Analytics
 | Tableau | Matplotlib |
