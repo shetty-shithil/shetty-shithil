@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shithil Sudarshan Shetty  
 ### **Data Scientist | Data Engineer | ML Practitioner**
 
-🎯 Data Scientist & Data Engineer with 3 years of industry experience building ML models, Generative AI applications, scalable data pipelines, and cloud-native systems on AWS—now pursuing an MS in Information Management (Data Science & Analytics) at UIUC.
+🎯 Data Scientist & Data Engineer with 3 years of industry experience building ML models, Generative AI applications, scalable data pipelines, and cloud-native systems on AWS, now pursuing an MS in Information Management (Data Science & Analytics) at UIUC.
 
 I love solving real-world problems at the intersection of Machine Learning, LLMs, and Data Engineering, and turning messy data into impactful insights.
 
@@ -31,7 +31,7 @@ I love solving real-world problems at the intersection of Machine Learning, LLMs
 
 ---
 
-## 📚 Publication
+## 📚 Publications
 **3D Model Rendering Using Three.js for Campus Visualization**  
 IEEE ICAST, 2022  
 Link: https://ieeexplore.ieee.org/document/10039553  
