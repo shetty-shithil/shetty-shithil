@@ -48,12 +48,12 @@ Link: https://ieeexplore.ieee.org/document/10039553
 ### Data Engineering & Cloud
 | AWS | Kafka | Airflow | Spark | Snowflake |
 |-----|-------|---------|-------|-----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" height="40"> |
+| <img src="https://cdn.simpleicons.org/amazonaws/000000" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40"> | <img src="https://cdn.simpleicons.org/snowflake/000000" height="40"> |
 
 ### GenAI & NLP
 | HuggingFace | OpenAI |
 |-------------|--------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg" height="40"> |
+| <img src="https://cdn.simpleicons.org/huggingface/000000" height="40"> | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg" height="40"> |
 
 ### Visualization & Analytics
 | Tableau | Matplotlib |
