@@ -19,7 +19,7 @@ I love solving real-world problems at the intersection of Machine Learning, LLMs
 
 ## 💼 Experience Summary
 
-### **Senior Data Engineer — Piramal Finance (2022–2025)**
+### **Senior Data Engineer - Piramal Finance (2022–2025)**
 - Built an **LLM-powered SQL optimization agent** → reduced query latency **60%** & compute cost **25%**
 - Designed an **automated Kafka–Airflow loan pipeline** → enabled real-time MIS, driving **60% business growth**
 - Developed a **GenAI-powered Data Catalog agent** using GPT + Snowflake metadata → cut onboarding time **40%**
