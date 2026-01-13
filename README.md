@@ -46,9 +46,9 @@ Link: https://ieeexplore.ieee.org/document/10039553
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"> |
 
 ### Data Engineering & Cloud
-| AWS | Kafka | Airflow | Spark | Snowflake |
+| AWS | Snowflake | Airflow | Spark | Kafka |
 |-----|-------|---------|-------|-----------|
-| <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40"> | <img src="https://cdn.simpleicons.org/snowflake/00bfff" height="40"> |
+| <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="40"> | <img src="https://cdn.simpleicons.org/snowflake/00bfff" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40"> |
 
 ### GenAI & NLP
 | HuggingFace | OpenAI |
