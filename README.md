@@ -25,7 +25,7 @@ I love solving real-world problems at the intersection of Machine Learning,Gener
 - Developed a **GenAI-powered Data Catalog agent** using GPT + Snowflake metadata → cut onboarding time **40%**
 - Built a **250+ column Snowflake data mart** with PySpark, AWS Lambda, S3 → reduced manual prep time **70%**
 
-### **Data Science Intern — MRPL (2022)**
+### **Data Science Intern - MRPL (2022)**
 - Improved data reliability **25%** through automated quality checks  
 - Reduced manual reporting work by **5+ hrs/week** with ML-driven ETL automation  
 
