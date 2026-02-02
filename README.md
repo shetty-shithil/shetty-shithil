@@ -1,5 +1,5 @@
 # 👋🏻 Hi, I'm Shithil Sudarshan Shetty  
-### **Data Scientist | Data Engineer | ML Engineer**
+### **Data Scientist | Data Engineer | ML Engineer | AI Engineer**
 
 🎯 Data Scientist & Data Engineer with 3 years of industry experience building ML models, Generative AI applications, scalable data pipelines, and cloud-native systems on AWS, now pursuing an MS in Information Management (Data Science & Analytics) at UIUC.
 
