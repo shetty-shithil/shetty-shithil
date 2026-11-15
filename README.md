@@ -19,6 +19,12 @@ I love solving real-world problems at the intersection of Machine Learning, Gene
 
 ## 💼 Experience Summary
 
+### **Data Engineer Intern - American Medical Association (May 2026 – Nov 2026) | Chicago, IL
+- Developed scalable **Databricks Medallion Architecture (Bronze-Silver-Gold) pipelines** to process 6,000+ daily telemetry events across 4 deployment environments, reducing manual analytics effort by approximately **70%**.
+- Built a **RAG-based ingestion pipeline** processing 5,000+ HTML/PDF medical documents into versioned vector indexes using Docling and PubMedBERT, improving search relevance by **55%** through product evaluation.
+- Developed a **Databricks monitoring and analytics solution** with 20+ widgets tracking search latency, errors, and query trends across 10+ client applications and 80+ users.
+- Evaluated **HIPAA-compliant PII masking and redaction pipelines** using AWS Comprehend Medical and OpenMed, benchmarking accuracy, latency, and deployment costs.
+
 ### **Senior Data Engineer - Piramal Finance (2022–2025)**
 - Built an **LLM-powered SQL optimization agent** → reduced query latency **60%** & compute cost **25%**
 - Designed an **automated Kafka–Airflow loan pipeline** → enabled real-time MIS, driving **60% business growth**
